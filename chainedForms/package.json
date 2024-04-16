@@ -1,8 +1,8 @@
 {
-  "name": "selectores",
-  "version": "0.0.1",
+  "name": "chained-forms",
+  "version": "1.0.0",
   "config": {
-    "projectpath": "selectores"
+    "projectpath": "chained-forms"
   },
   "scripts": {
     "ng": "ng",
